@@ -43,7 +43,11 @@ By default the port is set to "1234" and the server ip to "localhost".
 
 ### How to run the server:
 
-In your terminal run "ruby Run_Server.rb" while at the project directory
+In your terminal run the following command while at the project directory:
+
+```
+ruby Run_Server.rb
+```
 
 ### How to connect to the server:
 
